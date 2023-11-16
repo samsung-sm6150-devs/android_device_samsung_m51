@@ -40,6 +40,10 @@ PRODUCT_PACKAGES += \
 # Inherit Common Device Tree
 $(call inherit-product, device/samsung/sm6150-common/sm6150.mk)
 
+# NFC
+PRODUCT_PACKAGES += \
+    android.hardware.nfc@1.2-service.samsung \
+
 # Overlays
 PRODUCT_PACKAGE_OVERLAYS += \
     $(DEVICE_PATH)/overlay \
