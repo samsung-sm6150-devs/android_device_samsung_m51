@@ -57,4 +57,7 @@
         <item>900</item> <!--item>sensorLocationY</item-->
         <item>200</item> <!--item>sensorRadius</item-->
     </array>
+
+    <!-- Specify if the fingerprint hardware support gestures-->
+    <bool name="config_fingerprintSupportsGestures">true</bool>
 </resources>
