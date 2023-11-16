@@ -52,10 +52,10 @@
     </array>
 
     <array name="config_sfps_sensor_props_0" translatable="false">
-        <item>local:4630946711218184577</item> <!--item>displayId</item-->
+        <item></item> <!--item>displayId</item-->
         <item>1080</item> <!--item>sensorLocationX</item-->
-        <item>900</item> <!--item>sensorLocationY</item-->
-        <item>200</item> <!--item>sensorRadius</item-->
+        <item>800</item> <!--item>sensorLocationY</item-->
+        <item>350</item> <!--item>sensorRadius</item-->
     </array>
 
     <!-- Specify if the fingerprint hardware support gestures-->
